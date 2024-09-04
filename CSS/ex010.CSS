@@ -1,0 +1,9 @@
+.box {
+ width: 100px; /* LARGURA */
+ height: 6px; /* altura */
+ background: red;/* cor de fundo */
+ border:black 3px solid ;
+ padding: 10px; ;/* espaçamento */
+ margin: 70px; /* espaçamento */
+ box-sizing:border-box ;    
+}
